@@ -68,8 +68,8 @@ tshark -r ~/evidence/capture.pcap --export-objects http,~/evidence/http_objects/
 
 | Step | Screenshot |
 |------|------------|
-| tcpdump capture | ![Step 1](./screenshots/step01.png) |
-| tshark analysis / Wireshark GUI | ![Step 2](./screenshots/step02.png) |
+| Packet capture execution with TCPDump | ![Step 1](./screenshots/step01.png) |
+| Protocol analysis & traffic inspection with TShark | ![Step 2](./screenshots/step02.png) |
 
 ---
 

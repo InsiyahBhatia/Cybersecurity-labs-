@@ -58,11 +58,11 @@ echo 0 | sudo tee /proc/sys/net/ipv4/ip_forward    # disable forwarding
 
 | Step | Screenshot |
 |------|------------|
-| Network prep & host discovery | ![Step 1](./screenshots/step01.png) |
-| ARP poisoning started | ![Step 2](./screenshots/step02.png) |
-| tshark capture active | ![Step 3](./screenshots/step03.png) |
-| Wireshark analysis of session | ![Step 4](./screenshots/step04.png) |
-| Cleanup & IP forward disabled | ![Step 5](./screenshots/step05.png) |
+| Network setup & IP configuration | ![Step 1](./screenshots/step02.png) |
+| ARP poisoning started with Ettercap | ![Step 2](./screenshots/step03.png) |
+| Wireshark TCP traffic analysis | ![Step 3](./screenshots/step04.png) |
+| Wireshark UDP/DNS traffic analysis | ![Step 4](./screenshots/step05.png) |
+| Target system (Metasploitable) network config | ![Step 5](./screenshots/step01.png) |
 
 ---
 

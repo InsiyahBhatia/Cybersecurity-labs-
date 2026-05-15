@@ -76,8 +76,8 @@ sudo ophcrack &
 
 | Step | Screenshot |
 |------|------------|
-| John setup & shadow hash cracking | ![Step 1](./screenshots/step01.png) |
-| MD5 / ZIP cracking results | ![Step 2](./screenshots/step02.png) |
+| MD5 hash cracking with John the Ripper | ![Step 1](./screenshots/step01.png) |
+| Windows NTLM cracking with Ophcrack | ![Step 2](./screenshots/step02.png) |
 
 ---
 

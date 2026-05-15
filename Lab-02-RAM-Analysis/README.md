@@ -52,10 +52,10 @@ python3 ~/volatility3/vol.py -f $WDUMP windows.netscan
 
 | Step | Screenshot |
 |------|------------|
-| Volatility install & setup | ![Step 1](./screenshots/step01.png) |
-| `imageinfo` — profile detection | ![Step 2](./screenshots/step02.png) |
-| `linux_pslist` — process listing | ![Step 3](./screenshots/step03.png) |
-| `linux_netstat` — network connections | ![Step 4](./screenshots/step04.png) |
+| Forensic tools & kernel headers installation | ![Step 1](./screenshots/step01.png) |
+| Volatility 3 setup & directory structure | ![Step 2](./screenshots/step02.png) |
+| Volatility 3 plugin execution & command help | ![Step 3](./screenshots/step03.png) |
+| Remote evidence acquisition using Netcat | ![Step 4](./screenshots/step04.png) |
 
 ---
 

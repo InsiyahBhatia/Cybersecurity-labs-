@@ -62,10 +62,10 @@ sudo autopsy &
 
 | Step | Screenshot |
 |------|------------|
-| Disk image creation | ![Step 1](./screenshots/step01.png) |
-| `fls` — deleted file listing | ![Step 2](./screenshots/step02.png) |
-| `icat` — file recovery | ![Step 3](./screenshots/step03.png) |
-| Timeline CSV / Autopsy GUI | ![Step 4](./screenshots/step04.png) |
+| Disk image creation & file system mounting | ![Step 1](./screenshots/step01.png) |
+| `fls`, `istat`, & `icat` recovery commands | ![Step 2](./screenshots/step02.png) |
+| Timeline generation & activity analysis | ![Step 3](./screenshots/step03.png) |
+| Autopsy GUI volume & case analysis | ![Step 4](./screenshots/step04.png) |
 
 ---
 

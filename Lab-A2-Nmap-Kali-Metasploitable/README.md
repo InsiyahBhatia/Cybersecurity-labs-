@@ -123,16 +123,16 @@ nmap -oX ~/nmap_results.xml -sV 192.168.56.129
 
 | # | Command | Screenshot |
 |---|---------|------------|
-| 1 | Kali Linux setup & VM network config | ![Step 1](./screenshots/step01.png) |
-| 2 | Metasploitable 2 boot & IP detection | ![Step 2](./screenshots/step02.png) |
-| 3 | Ping sweep — `nmap -sn` | ![Step 3](./screenshots/step03.png) |
-| 4 | Basic port scan | ![Step 4](./screenshots/step04.png) |
+| 1 | Specific port scans (`-p 53`, `-p 50-100`) | ![Step 1](./screenshots/step01.png) |
+| 2 | UDP scan (`-sU`) | ![Step 2](./screenshots/step02.png) |
+| 3 | Ping sweep — `nmap -sn` | ![Step 3](./screenshots/step09.png) |
+| 4 | TCP Connect scan (`-sT`) | ![Step 4](./screenshots/step03.png) |
 | 5 | SYN stealth scan `-sS` | ![Step 5](./screenshots/step05.png) |
-| 6 | Version detection `-sV` | ![Step 6](./screenshots/step06.png) |
-| 7 | OS detection `-O` | ![Step 7](./screenshots/step07.png) |
-| 8 | Aggressive scan `-A` | ![Step 8](./screenshots/step08.png) |
-| 9 | NSE vulnerability scripts | ![Step 9](./screenshots/step09.png) |
-| 10 | Full port scan / output saved | ![Step 10](./screenshots/step10.png) |
+| 6 | Version detection `-sV` | ![Step 6](./screenshots/step04.png) |
+| 7 | Fast scan (`-F`) | ![Step 7](./screenshots/step06.png) |
+| 8 | Target scan (`google.com`) | ![Step 8](./screenshots/step07.png) |
+| 9 | Fragmentation scan (`-f`) | ![Step 9](./screenshots/step08.png) |
+| 10 | Random target scan (`-iR`) | ![Step 10](./screenshots/step10.png) |
 
 ---
 

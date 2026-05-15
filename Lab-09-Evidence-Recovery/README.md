@@ -73,11 +73,11 @@ exiftool ~/evidence/foremost_out/jpg/00000000.jpg
 
 | Step | Screenshot |
 |------|------------|
-| Test image creation & file deletion | ![Step 1](./screenshots/step01.png) |
-| Foremost scan running | ![Step 2](./screenshots/step02.png) |
-| Recovered files listing | ![Step 3](./screenshots/step03.png) |
-| Audit report output | ![Step 4](./screenshots/step04.png) |
-| ExifTool metadata extraction | ![Step 5](./screenshots/step05.png) |
+| Foremost scan execution on disk image | ![Step 1](./screenshots/step01.png) |
+| Audit report & recovered files summary | ![Step 2](./screenshots/step02.png) |
+| Baseline file creation (Windows CMD) | ![Step 3](./screenshots/step04.png) |
+| Evidence tampering detection (Windows) | ![Step 4](./screenshots/step05.png) |
+| Multi-platform integrity verification | ![Step 5](./screenshots/step03.png) |
 
 ---
 

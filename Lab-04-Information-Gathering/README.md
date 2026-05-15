@@ -66,10 +66,10 @@ grep -i 'open tcp' ~/evidence/dmitry_report.txt
 
 | Step | Screenshot |
 |------|------------|
-| Dmitry install & basic run | ![Step 1](./screenshots/step01.png) |
-| WHOIS output | ![Step 2](./screenshots/step02.png) |
-| Port scan results | ![Step 3](./screenshots/step03.png) |
-| Filtered report | ![Step 4](./screenshots/step04.png) |
+| Dmitry installation & TCP port scanning | ![Step 1](./screenshots/step01.png) |
+| WHOIS domain info & service banner grabbing | ![Step 2](./screenshots/step02.png) |
+| Remote evidence transfer from target (Metasploitable) | ![Step 3](./screenshots/step03.png) |
+| Remote acquisition completion & integrity check | ![Step 4](./screenshots/step04.png) |
 
 ---
 

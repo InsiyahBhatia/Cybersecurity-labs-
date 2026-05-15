@@ -70,10 +70,10 @@ sudo rmmod lime
 
 | Step | Screenshot |
 |------|------------|
-| Setup & drive detection | ![Step 1](./screenshots/step01.png) |
-| Source hash generation | ![Step 2](./screenshots/step02.png) |
-| Disk imaging in progress | ![Step 3](./screenshots/step03.png) |
-| Hash verification / RAM dump | ![Step 4](./screenshots/step04.png) |
+| Setup & local disk imaging (`dd` + `md5sum`) | ![Step 1](./screenshots/step01.png) |
+| Disk imaging on Metasploitable target | ![Step 2](./screenshots/step02.png) |
+| Remote acquisition via Netcat listener | ![Step 3](./screenshots/step03.png) |
+| Live RAM capture using LiME kernel module | ![Step 4](./screenshots/step04.png) |
 
 ---
 

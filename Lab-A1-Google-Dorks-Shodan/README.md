@@ -67,15 +67,15 @@ org:"target organization"
 
 | # | Description | Screenshot |
 |---|-------------|------------|
-| 1 | `site:` operator — indexed pages | ![Step 1](./screenshots/step01.png) |
-| 2 | `intitle:"index of"` — open directories | ![Step 2](./screenshots/step02.png) |
-| 3 | `inurl:admin` — admin panel search | ![Step 3](./screenshots/step03.png) |
-| 4 | `filetype:pdf` — document search | ![Step 4](./screenshots/step04.png) |
-| 5 | `intext:` — keyword in body | ![Step 5](./screenshots/step05.png) |
-| 6 | Exact phrase + exclude operator | ![Step 6](./screenshots/step06.png) |
-| 7 | Combined operators query | ![Step 7](./screenshots/step07.png) |
-| 8 | Shodan — domain lookup results | ![Step 8](./screenshots/step08.png) |
-| 9 | Shodan — open ports & services | ![Step 9](./screenshots/step09.png) |
+| 1 | `site:` operator — indexed pages | ![Step 1](./screenshots/step04.png) |
+| 2 | `intitle:` operator — page title search | ![Step 2](./screenshots/step06.png) |
+| 3 | `inurl:` operator — URL search | ![Step 3](./screenshots/step05.png) |
+| 4 | `filetype:pdf` — document search | ![Step 4](./screenshots/step07.png) |
+| 5 | `intext:` operator — body content search | ![Step 5](./screenshots/step03.png) |
+| 6 | Exact phrase match operator | ![Step 6](./screenshots/step08.png) |
+| 7 | Combined operators query | ![Step 7](./screenshots/step03.png) |
+| 8 | Shodan — domain lookup results | ![Step 8](./screenshots/step09.png) |
+| 9 | Shodan — open ports & services | ![Step 9](./screenshots/step10.png) |
 | 10 | Shodan — CVEs / SSL certificate details | ![Step 10](./screenshots/step10.png) |
 
 ---

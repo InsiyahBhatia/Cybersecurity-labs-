@@ -67,11 +67,11 @@ cat ~/evidence/be_output/exif.txt | grep -i 'gps\|lat\|lon'
 
 | Step | Screenshot |
 |------|------------|
-| Hashdeep baseline creation | ![Step 1](./screenshots/step01.png) |
-| Hashdeep audit result | ![Step 2](./screenshots/step02.png) |
-| Bulk Extractor scan running | ![Step 3](./screenshots/step03.png) |
-| Extracted artifacts (email/URL/EXIF) | ![Step 4](./screenshots/step04.png) |
-| GPS metadata from EXIF | ![Step 5](./screenshots/step05.png) |
+| Hashdeep baseline & audit (Linux) | ![Step 1](./screenshots/step01.png) |
+| Hashdeep audit failure detection (Linux) | ![Step 2](./screenshots/step02.png) |
+| Bulk Extractor scan progress (Linux) | ![Step 3](./screenshots/step03.png) |
+| Hashdeep integrity audit (Windows CMD) | ![Step 4](./screenshots/step04.png) |
+| Bulk Extractor carving artifacts (Windows) | ![Step 5](./screenshots/step05.png) |
 
 ---
 

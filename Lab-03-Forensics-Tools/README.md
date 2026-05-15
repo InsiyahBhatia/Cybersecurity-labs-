@@ -55,8 +55,8 @@ ettercap --version | head -3
 
 | Step | Screenshot |
 |------|------------|
-| Tool installation & verification | ![Step 1](./screenshots/step01.png) |
-| Autopsy / Wireshark GUI launch | ![Step 2](./screenshots/step02.png) |
+| Autopsy Digital Forensics Platform (Web Interface) | ![Step 1](./screenshots/step01.png) |
+| Wireshark Network Traffic Capture & Analysis | ![Step 2](./screenshots/step02.png) |
 
 ---
 
